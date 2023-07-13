@@ -1,0 +1,40 @@
+body{
+    background-image: url("photo.jpg");
+    background-size: 100%
+    }
+.navbar-nav{width: 100%;
+    justify-content:end}
+.navbar-brand{margin-left: 20px;}
+.logo{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+text-align: center}
+
+.btn{margin:10px ;}
+.jumbotron{
+    background-color: lightyellow;
+    margin-top:1000px ;
+    padding-top:100px ;
+    padding-bottom:200px ;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.learn{margin-top: 50px;}
+
+.img{
+    width: 450px;
+    margin: 20px;
+}
+
+.pexels{width: 1350px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 100px;}
+    #demo{
+    background-color: lightyellow;
+}
